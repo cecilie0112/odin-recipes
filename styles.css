@@ -1,0 +1,31 @@
+* {
+    background-color: rgb(194, 194, 194);
+}
+
+.head {
+    color: white;
+}
+
+.bullet {
+    font-size: 20px;
+}
+
+.red {
+    color: red;
+}
+
+.oran {
+    color:orange
+}
+
+.gree {
+    color: green;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.yel {
+    color: yellow;
+}
